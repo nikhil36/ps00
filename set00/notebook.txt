@@ -1,0 +1,56 @@
+Date		Who			Start		Stop		Interruptions		Questions	TimeOnTask		Comments
+08/28		NS			10:00		10:45		10			-	 	35		CCIS account set up took 15 minutes and read other documentations.
+08/28           NS		        10:45		12:15		7			-		83		Installed Racket and did few problems after 
+																seeing John Clements video tutorial on YouTube.
+09/03		NS			15:00		15:40		5			-		35		Set up the desktop version on Zimbra seeing a HOWTO Guide.
+09/03		NS			15:40		16:15		0			- 	        35             	Checked the home folder on UNIX and read some basic UNIX commands
+09/04		NS			13:00		13:50		15+5			-		30              Took some time to install Github since I already had an account, 
+09/04		NS			13:50		14:23		5			-		28		Piazza was linked to my husky ID so had to change that as well. 
+																Uploaded an avatar as well on gravatar.com
+09/05		NS			13:10		13:30		0			1     		20		Confused by the line three similar expression hence checked Piazza.
+																Also had to find a way to test the code and 
+																referred the help for check-expect function	
+09/05		NS			13:30      	13:45		0			2  		15		Was not sure about testing the expression. Whether to use check-expect or not.
+09/05		NS			13:45		14:10		0			3		25		Dr Racket provides indentation but I find it hard to read the code hence using
+																custom indentation
+09/05		NS			14:10		14:20		0			4		10              Exercise 4, simple one but the contract defines the range of a number.		
+																That can be used in future exercises.
+09/05		NS			15:00		16:13		15			-		58		Read all the posts on Piazza by the TA and other students									
+																to clarify doubts about setting up the repository
+09/06		NS			14:30		14:50      	0			5		20		To calculate the square of a number.
+09/06		NS			14:50		15:30           10			6		30		Had to learn about quadratic equations and making test cases
+																took some time.
+09/07		NS			15:00		15.45		7			7		38		Had to learn in detail about the delta and tested different values
+																of delta and the corresponding effect on the test case result
+09/07		NS			15:45		16.00		0			8		15		Function to calculate the area of a circle using 'pi'
+09/07		NS			16:00		16.45		10			9		35		Learned the difference between the modulo and remainder method 
+																on Dr Racket. 
+09/08		NS			12:45		13:10		0			10		25		Used an inbuilt function to get the smallest number.
+
+============committing to git: 9/8 17:00 ===================
+
+
+Total Time On Task Q1 (minutes)			20	
+Total Time On Task Q2 (minutes)			15			
+Total Time On Task Q3 (minutes)			25	
+Total Time On Task Q4 (minutes)			10	
+Total Time On Task Q5 (minutes)			20	
+Total Time On Task Q6 (minutes)			30	
+Total Time On Task Q7 (minutes)			38	
+Total Time On Task Q8 (minutes)			15	
+Total Time On Task Q9 (minutes)			35	
+Total Time On Task Q10 (minutes)		25
+
+
+TOTQ1 (hours and tenths)				0.3	
+TOTQ2 (hours and tenths)				0.2
+TOTQ3 (hours and tenths)				0.4
+TOTQ4 (hours and tenths)				0.2
+TOTQ5 (hours and tenths)				0.3
+TOTQ6 (hours and tenths)				0.5
+TOTQ7 (hours and tenths)				0.6
+TOTQ8 (hours and tenths)				0.2
+TOTQ9 (hours and tenths)				0.6
+TOTQ10 (hours and tenths)				0.4
+
+	
