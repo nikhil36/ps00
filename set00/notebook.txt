@@ -28,6 +28,9 @@ Date		Who			Start		Stop		Interruptions		Questions	TimeOnTask		Comments
 09/08		NS			12:45		13:10		0			10		25		Used an inbuilt function to get the smallest number.
 
 ============committing to git: 9/8 17:00 ===================
+09/12		NS			13:45		15:00		5			11		70		Solved doubts regarding the data definition and about course study.
+														        	And studied about Destructor Template
+============committing to git: 9/12 15:00 ===================
 
 
 Total Time On Task Q1 (minutes)			20	
