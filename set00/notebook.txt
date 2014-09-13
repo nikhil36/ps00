@@ -31,6 +31,17 @@ Date		Who			Start		Stop		Interruptions		Questions	TimeOnTask		Comments
 09/12		NS			13:45		15:00		5			11		70		Solved doubts regarding the data definition and about course study.
 														        	And studied about Destructor Template
 ============committing to git: 9/12 15:00 ===================
+09/13		NS			16:15		16:45		0			11		15		Was confused about the contract for point-x since it can work for both
+															        string and numbers. But since my make-point contract says that only numbers
+																can be entered , I think there is nothing to be worried about.
+09/13		NS			16:45		17:20		5			12		30		Not sure whats the expected solution in racket, but created test cases based
+																on my understanding.
+09/13		NS			17:20		17:40		0			13		20		Not sure whats the expected solution in racket, but created test cases based
+																on my understanding.
+09/13		NS			17:40		17:53		0			14		13		Created all the racket created functions. Not sure what else to do.
+09/13		NS			18:00		18:17		0			15		17		Completed the wrote data definition for the given problem just to practice the 
+																recipe
+============committing to git: 9/13 18:40 ===================
 
 
 Total Time On Task Q1 (minutes)			20	
@@ -43,6 +54,11 @@ Total Time On Task Q7 (minutes)			38
 Total Time On Task Q8 (minutes)			15	
 Total Time On Task Q9 (minutes)			35	
 Total Time On Task Q10 (minutes)		25
+Total Time On Task Q11 (minutes)		85
+Total Time On Task Q12 (minutes)		30
+Total Time On Task Q13 (minutes)		20
+Total Time On Task Q14 (minutes)		13
+Total Time On Task Q15 (minutes)		17
 
 
 TOTQ1 (hours and tenths)				0.3	
@@ -55,5 +71,10 @@ TOTQ7 (hours and tenths)				0.6
 TOTQ8 (hours and tenths)				0.2
 TOTQ9 (hours and tenths)				0.6
 TOTQ10 (hours and tenths)				0.4
+TOTQ11 (hours and tenths)				1.4
+TOTQ12 (hours and tenths)				0.5
+TOTQ13 (hours and tenths)				0.3
+TOTQ14 (hours and tenths)				0.2
+TOTQ15 (hours and tenths)				0.3
 
 	
