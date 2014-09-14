@@ -43,6 +43,11 @@ Date		Who			Start		Stop		Interruptions		Questions	TimeOnTask		Comments
 																recipe
 ============committing to git: 9/13 18:40 ===================
 
+09/13		NS			19:45		20:02		0			16		17		Should I write the recipe when I am using the inbuilt function??
+09/13		NS			20:02		20:40		0			17		38		created a full generic rectangle generating function.
+09/13		NS			20:40		20:53		0			18		43		Confused about printing the element as 2X4.. Will need to think more on it
+
+============committing to git: 9/13 20:55 ===================
 
 Total Time On Task Q1 (minutes)			20	
 Total Time On Task Q2 (minutes)			15			
@@ -59,7 +64,8 @@ Total Time On Task Q12 (minutes)		30
 Total Time On Task Q13 (minutes)		20
 Total Time On Task Q14 (minutes)		13
 Total Time On Task Q15 (minutes)		17
-
+Total Time On Task Q16 (minutes)		17
+Total Time On Task Q17 (minutes)		38
 
 TOTQ1 (hours and tenths)				0.3	
 TOTQ2 (hours and tenths)				0.2
@@ -76,5 +82,8 @@ TOTQ12 (hours and tenths)				0.5
 TOTQ13 (hours and tenths)				0.3
 TOTQ14 (hours and tenths)				0.2
 TOTQ15 (hours and tenths)				0.3
+TOTQ16 (hours and tenths)				0.3
+TOTQ17 (hours and tenths)				0.6
+
 
 	
