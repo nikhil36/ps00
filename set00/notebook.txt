@@ -56,6 +56,12 @@ Date		Who			Start		Stop		Interruptions		Questions	TimeOnTask		Comments
 09/14		NS			2:15		2:40		0			21              25   		used scale function to scale the image in question 20.
 09/14		NS			2:45		3:05		0			21a             20 
 ============committing to git: 9/14 3:15 ===================
+09/14		NS			16:02		16:13		0			22              11		This cons function is a bit confusing and complicated.
+09/14		NS			16:02		16:30		20			23              8		Had a phone call to attend so a longer interruption on this one.
+09/14		NS			17:35		18:38		5			24              58		Not sure how to hanle the empty list hence created a where clause in the contract.
+============committing to git: 9/15 16:10 ===================	
+
+
 
 
 
@@ -83,6 +89,9 @@ Total Time On Task Q19 (minutes)		58
 Total Time On Task Q20 (minutes)		70
 Total Time On Task Q21 (minutes)		25
 Total Time On Task Q21a (minutes)		20
+Total Time On Task Q22 (minutes)		11
+Total Time On Task Q23 (minutes)		8
+Total Time On Task Q24 (minutes)		58
 
 TOTQ1 (hours and tenths)				0.3	
 TOTQ2 (hours and tenths)				0.2
@@ -106,6 +115,9 @@ TOTQ19 (hours and tenths)				0.9
 TOTQ20 (hours and tenths)				1.2
 TOTQ21 (hours and tenths)				0.4
 TOTQ21a (hours and tenths)				0.3
+TOTQ22 (hours and tenths)				0.2
+TOTQ23 (hours and tenths)				0.1
+TOTQ24 (hours and tenths)				1.0
 
 
 	
