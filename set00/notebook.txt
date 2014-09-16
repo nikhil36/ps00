@@ -49,7 +49,7 @@ Date		Who			Start		Stop		Interruptions		Questions	TimeOnTask		Comments
 
 ============committing to git: 9/13 20:55 ===================
 09/13		NS			23:15		23:42		0			18              27    		Read on piazza that we need to draw a rectangle but the question clearly
-																states that we need to print the sequence, hence followed up on that dicussion.
+																states that we need to print the sequence, hence followed up on that discussion.
 09/13		NS			23:42		00:55		15			19              58    		Not sure about the contract.Posted a note on Piazza. Created a function to 
 																check the validity of the input i.e. should not be real.
 09/14		NS			1:00		2:10		0			20              70    		Had to lookup the documentations of multiple methods to arrange the figure
@@ -58,13 +58,20 @@ Date		Who			Start		Stop		Interruptions		Questions	TimeOnTask		Comments
 ============committing to git: 9/14 3:15 ===================
 09/14		NS			16:02		16:13		0			22              11		This cons function is a bit confusing and complicated.
 09/14		NS			16:02		16:30		20			23              8		Had a phone call to attend so a longer interruption on this one.
-09/14		NS			17:35		18:38		5			24              58		Not sure how to hanle the empty list hence created a where clause in the contract.
+09/14		NS			17:35		18:38		5			24              58		Not sure how to handle the empty list hence created a where clause in the contract.
 ============committing to git: 9/15 16:10 ===================	
-
-
-
-
-
+09/14		NS			16:45		17:14		0			25              19		
+09/14		NS			17:35		19:15		30			26              70		Tough one. Placing image took time. Got the approach wrong two times. Not sure how to 
+																test.
+09/14		NS			19:15		20:05		0			27              50		Had to think of a special way to handle the empty list condition.
+09/14		NS			20:15		20:43		0			27a             28		used string-join
+09/14		NS			23:15		00:04		0			28              49		could not find the right approach to do the problem in one function. Had a create a function 
+																to create the final image. Need to check with the TA.
+09/15		NS			00:04		00:46		0			29              42		had problem in using the already defined method and struct with provide.
+09/15		NS			00:46		01:24		0			30              38		Had difficulty in recursion , had to find a way to break the recursion.
+09/15		NS			01:24		01:46		0			31              22		simple problem. Not sure about the return statement of the contract.
+09/15		NS			01:46		02:09		0			32              23		created a helper method to calculate the distance.
+============committing to git: 9/16 02:15 ===================	
 
 
 Total Time On Task Q1 (minutes)			20	
@@ -92,6 +99,15 @@ Total Time On Task Q21a (minutes)		20
 Total Time On Task Q22 (minutes)		11
 Total Time On Task Q23 (minutes)		8
 Total Time On Task Q24 (minutes)		58
+Total Time On Task Q25 (minutes)		19
+Total Time On Task Q26 (minutes)		70
+Total Time On Task Q27 (minutes)		50
+Total Time On Task Q27a (minutes)		28
+Total Time On Task Q28 (minutes)		49
+Total Time On Task Q29 (minutes)		42
+Total Time On Task Q30 (minutes)		38
+Total Time On Task Q31 (minutes)		22
+Total Time On Task Q32 (minutes)		23
 
 TOTQ1 (hours and tenths)				0.3	
 TOTQ2 (hours and tenths)				0.2
@@ -118,6 +134,16 @@ TOTQ21a (hours and tenths)				0.3
 TOTQ22 (hours and tenths)				0.2
 TOTQ23 (hours and tenths)				0.1
 TOTQ24 (hours and tenths)				1.0
+TOTQ25 (hours and tenths)				0.3
+TOTQ26 (hours and tenths)				1.2
+TOTQ27 (hours and tenths)				0.8
+TOTQ27a (hours and tenths)				0.5
+TOTQ28 (hours and tenths)				0.8
+TOTQ29 (hours and tenths)				0.7
+TOTQ30 (hours and tenths)				0.6
+TOTQ31 (hours and tenths)				0.4
+TOTQ32 (hours and tenths)				0.4
+
 
 
 	
